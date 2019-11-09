@@ -11,6 +11,6 @@ Output will be written to the console to let the user know what is happening, an
 `python pcn.py`
 
 ## Note
-The testing data will obviously need to be decompressed before running the code.
+The testing data will need to be decompressed before running the code.
 
 *This code was written for the Portland State University Spring 2019 Machine Learning Course*
